@@ -1,0 +1,75 @@
+Gathering license information
+Server = 5053@192.168.0.9	Roam Enable(1)/Disable(0)=0
+Product name = netsim
+Version type = std
+Lock type = rlm_hw
+Version = 12.1
+Check license for...
+	netsim_std_1 or netsim_std_all or netsim_std or netsim_std_inw
+	netsim_std_2 or netsim_std_all or netsim_std or netsim_std_legacy
+	netsim_std_3 or netsim_std_all or netsim_std or netsim_std_advrs
+	netsim_std_4 or netsim_std_all or netsim_std or netsim_std_advw
+	netsim_std_5 or netsim_std_all or netsim_std or netsim_std_sdn
+	netsim_std_6 or netsim_std_all or netsim_std or netsim_std_iot
+	netsim_std_7 or netsim_std_all or netsim_std or netsim_std_crn
+	netsim_std_8 or netsim_std_all or netsim_std or netsim_std_lte
+	netsim_std_9 or netsim_std_all or  or netsim_std_vanet
+	netsim_std_10 or netsim_std_all or  or netsim_std_5g
+	netsim_std_11 or netsim_std_all or  or netsim_std_sat
+	netsim_emulator or NA or NA or netsim_std_NA
+called for 0, 18152
+called for 1, 23560
+called for 2, 5140
+called for 3, 5736
+called for 4, 19240
+called for 5, 21444
+called for 6, 9604
+called for 7, 21688
+called for 8, 7976
+called for 9, 7180
+called for 10, 20268
+Waiting for license Manager to complete..
+Thread is called for component 0. Waiting..
+called for 12, 16504
+NetSim Component ID = 3, License status = 1 (Success)
+NetSim Component ID = 0, License status = 1 (Success)
+Closing thread for component 0..
+Thread is called for component 1. Waiting..
+NetSim Component ID = 4, License status = 1 (Success)
+NetSim Component ID = 12, License status = 1 (Success)
+NetSim Component ID = 2, License status = 1 (Success)
+NetSim Component ID = 8, License status = 1 (Success)
+NetSim Component ID = 1, License status = 1 (Success)
+Closing thread for component 1..
+Thread is called for component 2. Waiting..
+Closing thread for component 2..
+Thread is called for component 3. Waiting..
+Closing thread for component 3..
+Thread is called for component 4. Waiting..
+Closing thread for component 4..
+Thread is called for component 5. Waiting..
+NetSim Component ID = 5, License status = 1 (Success)
+Closing thread for component 5..
+Thread is called for component 6. Waiting..
+NetSim Component ID = 9, License status = 1 (Success)
+NetSim Component ID = 7, License status = 1 (Success)
+NetSim Component ID = 10, License status = 1 (Success)
+NetSim Component ID = 6, License status = 1 (Success)
+Closing thread for component 6..
+Thread is called for component 7. Waiting..
+Closing thread for component 7..
+Thread is called for component 8. Waiting..
+Closing thread for component 8..
+Thread is called for component 9. Waiting..
+Closing thread for component 9..
+Thread is called for component 10. Waiting..
+Closing thread for component 10..
+No thread for component 11..
+Thread is called for component 12. Waiting..
+Closing thread for component 12..
+No thread for component 13..
+No thread for component 14..
+No thread for component 15..
+No thread for component 16..
+
+Time taken is 141

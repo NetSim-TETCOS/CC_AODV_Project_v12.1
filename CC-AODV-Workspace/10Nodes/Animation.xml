@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<NETSIM_ANIMATION>
+ <!--NETSIM_ANIMATION-->
+ <MENU NAME="IP Table" isNewScreen="false">
+  <MENU NAME="WIRELESS_NODE_1" isNewScreen="true" FileName="Animation_WIRELESS_NODE_1.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_2" isNewScreen="true" FileName="Animation_WIRELESS_NODE_2.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_3" isNewScreen="true" FileName="Animation_WIRELESS_NODE_3.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_4" isNewScreen="true" FileName="Animation_WIRELESS_NODE_4.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_5" isNewScreen="true" FileName="Animation_WIRELESS_NODE_5.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_6" isNewScreen="true" FileName="Animation_WIRELESS_NODE_6.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_7" isNewScreen="true" FileName="Animation_WIRELESS_NODE_7.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_8" isNewScreen="true" FileName="Animation_WIRELESS_NODE_8.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_9" isNewScreen="true" FileName="Animation_WIRELESS_NODE_9.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_10" isNewScreen="true" FileName="Animation_WIRELESS_NODE_10.txt" Type="table"/>
+ </MENU>
+ <MENU NAME="Battery Power" isNewScreen="false">
+  <MENU NAME="WIRELESS_NODE_1_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_1_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_2_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_2_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_3_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_3_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_4_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_4_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_5_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_5_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_6_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_6_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_7_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_7_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_8_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_8_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_9_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_9_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_10_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_10_BatteryPower.txt" Type="battery"/>
+ </MENU>
+ <MENU NAME="Node Movement" isNewScreen="false" FileName="Animation_Node_Movement.txt" Type="generic"/>
+ <MENU NAME="Transmit_packet" isNewScreen="false" FileName="Animation_Transmit_packet.txt" Type="generic"/>
+</NETSIM_ANIMATION>

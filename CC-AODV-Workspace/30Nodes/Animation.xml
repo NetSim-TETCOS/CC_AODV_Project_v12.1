@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<NETSIM_ANIMATION>
+ <!--NETSIM_ANIMATION-->
+ <MENU NAME="IP Table" isNewScreen="false">
+  <MENU NAME="WIRELESS_NODE_1" isNewScreen="true" FileName="Animation_WIRELESS_NODE_1.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_2" isNewScreen="true" FileName="Animation_WIRELESS_NODE_2.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_3" isNewScreen="true" FileName="Animation_WIRELESS_NODE_3.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_4" isNewScreen="true" FileName="Animation_WIRELESS_NODE_4.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_5" isNewScreen="true" FileName="Animation_WIRELESS_NODE_5.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_6" isNewScreen="true" FileName="Animation_WIRELESS_NODE_6.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_7" isNewScreen="true" FileName="Animation_WIRELESS_NODE_7.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_8" isNewScreen="true" FileName="Animation_WIRELESS_NODE_8.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_9" isNewScreen="true" FileName="Animation_WIRELESS_NODE_9.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_10" isNewScreen="true" FileName="Animation_WIRELESS_NODE_10.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_11" isNewScreen="true" FileName="Animation_WIRELESS_NODE_11.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_12" isNewScreen="true" FileName="Animation_WIRELESS_NODE_12.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_13" isNewScreen="true" FileName="Animation_WIRELESS_NODE_13.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_14" isNewScreen="true" FileName="Animation_WIRELESS_NODE_14.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_15" isNewScreen="true" FileName="Animation_WIRELESS_NODE_15.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_16" isNewScreen="true" FileName="Animation_WIRELESS_NODE_16.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_17" isNewScreen="true" FileName="Animation_WIRELESS_NODE_17.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_18" isNewScreen="true" FileName="Animation_WIRELESS_NODE_18.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_19" isNewScreen="true" FileName="Animation_WIRELESS_NODE_19.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_20" isNewScreen="true" FileName="Animation_WIRELESS_NODE_20.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_21" isNewScreen="true" FileName="Animation_WIRELESS_NODE_21.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_22" isNewScreen="true" FileName="Animation_WIRELESS_NODE_22.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_23" isNewScreen="true" FileName="Animation_WIRELESS_NODE_23.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_24" isNewScreen="true" FileName="Animation_WIRELESS_NODE_24.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_25" isNewScreen="true" FileName="Animation_WIRELESS_NODE_25.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_26" isNewScreen="true" FileName="Animation_WIRELESS_NODE_26.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_27" isNewScreen="true" FileName="Animation_WIRELESS_NODE_27.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_28" isNewScreen="true" FileName="Animation_WIRELESS_NODE_28.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_29" isNewScreen="true" FileName="Animation_WIRELESS_NODE_29.txt" Type="table"/>
+  <MENU NAME="WIRELESS_NODE_30" isNewScreen="true" FileName="Animation_WIRELESS_NODE_30.txt" Type="table"/>
+ </MENU>
+ <MENU NAME="Battery Power" isNewScreen="false">
+  <MENU NAME="WIRELESS_NODE_1_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_1_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_2_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_2_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_3_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_3_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_4_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_4_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_5_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_5_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_6_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_6_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_7_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_7_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_8_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_8_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_9_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_9_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_10_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_10_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_11_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_11_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_12_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_12_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_13_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_13_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_14_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_14_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_15_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_15_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_16_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_16_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_17_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_17_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_18_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_18_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_19_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_19_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_20_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_20_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_21_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_21_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_22_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_22_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_23_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_23_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_24_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_24_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_25_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_25_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_26_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_26_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_27_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_27_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_28_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_28_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_29_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_29_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="WIRELESS_NODE_30_BatteryPower" isNewScreen="false" FileName="Animation_WIRELESS_NODE_30_BatteryPower.txt" Type="battery"/>
+ </MENU>
+ <MENU NAME="Node Movement" isNewScreen="false" FileName="Animation_Node_Movement.txt" Type="generic"/>
+ <MENU NAME="Transmit_packet" isNewScreen="false" FileName="Animation_Transmit_packet.txt" Type="generic"/>
+</NETSIM_ANIMATION>
